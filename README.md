@@ -1,4 +1,4 @@
-### 👋Olá! Eu sou o Rodrigo Ferreira, desenvolvedor Full Stack em formação pela Digital House.
+### 👋Olá, tudo bem? Muito prazer! Eu sou o Rodrigo Ferreira, desenvolvedor Full Stack em formação pela Digital House.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
