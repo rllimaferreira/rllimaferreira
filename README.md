@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm Rodrigo and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px" style="max-width: 100%;"></div>
+# <div align="center">Hi there, I'm Rodrigo and it's nice to have you around!👋</div>
 
 <div style="display: inline_block"><br>
   Currently learning:
