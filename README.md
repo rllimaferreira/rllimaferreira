@@ -16,7 +16,7 @@
 
 <ul>
   <li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> I work as Wordpress developer at BibliASPA and as Drupal developer at University of Sao Paulo (USP).</li>
-   <li><g-emoji class="g-emoji" alias="technology" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">💻</g-emoji> I'm currently studying Web Development and Testing at Vincit College</a> and Qa.Coders</a>.</li>
+   <li><g-emoji class="g-emoji" alias="technology" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">💻</g-emoji> I'm currently studying Web Development and QA/Testing at Vincit College</a> and Qa.Coders</a>.</li>
     <li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> I have Linguistics bachelor's degree (2021) and started professional transition to QA Engineering in 2022.</li>
   <li><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> I am a researcher in the following university project: 'The relation between the university, society and vulnerable groups and the use of technology to enhance it'.</li>
 
