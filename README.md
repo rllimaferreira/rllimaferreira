@@ -1,7 +1,6 @@
 [![MasterHead](https://dailytechtime.com/wp-content/uploads/2021/01/Quality-Assurance-1170x611.jpg)](#)
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A QA Analyst from Brazil</h3>
-<p align="center"> <img alt="Github Octopus Mascot" width="400" src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif"/> </p
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rllimaferreira&label=Profile%20views&color=0e75b6&style=flat" alt="rllimaferreira" /> </p>
 
