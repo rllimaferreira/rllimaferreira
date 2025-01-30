@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rllimaferreira&show_icons=true&locale=en&layout=compact" alt="rllimaferreira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rllimaferreira&show_icons=true&locale=en" alt="rllimaferreira" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rllimaferreira&" alt="rllimaferreira" /></p>
