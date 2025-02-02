@@ -12,7 +12,7 @@ const RodrigoLima = {
     code: ['Javascript, Java, Python'],
     secondLanguage: 'English',
     thirdLanguage: 'Spanish',
-    askMeAbout: ['Software Test', 'Test', 'QA', 'Travels', 'Bodybuilding', 'Running', 'Study','Coffee','Qa.Coders'],
+    askMeAbout: ['Software Testing', 'Tests', 'QA', 'Travels', 'Bodybuilding', 'Running', 'Study','Coffee','Qa.Coders'],
     message: "
 Postgraduate in Software Engineering, specialized in Quality and Software Testing, and working as a QA Automation Engineer."
     others: ['Git', 'NPM', 'Test Case', 'BDD', 'Gherkin', 'Cucumber'],
