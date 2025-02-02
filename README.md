@@ -15,7 +15,7 @@ const RodrigoLima = {
     askMeAbout: ['Software Test', 'Test', 'QA', 'Travels', 'Bodybuilding', 'Running', 'Study','Coffee','Qa.Coders'],
     message: "
 Postgraduate in Software Engineering, specialized in Quality and Software Testing, and working as a QA Automation Engineer."
-    outhers: ['git', 'npm', 'test case', 'bdd', 'gherkin', 'cucumber'],
+    others: ['Git', 'NPM', 'Test Case', 'BDD', 'Gherkin', 'Cucumber'],
     technologies: {
         frontEndTest: {
             web: ['Cypress, Selenium, Robot Framework']
