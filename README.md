@@ -13,7 +13,8 @@ const RodrigoLima = {
     secondLanguage: 'English',
     thirdLanguage: 'Spanish',
     askMeAbout: ['Software Test', 'Test', 'QA', 'Travels', 'Bodybuilding', 'Running', 'Study','Coffee','Qa.Coders'],
-    message: "Pós-graduado em Engenharia de Software com Ênfase em Qualidade e Teste de Software e QA Automation Engineer."
+    message: "
+Postgraduate in Software Engineering, specialized in Quality and Software Testing, and QA Automation Engineer."
     outhers: ['git', 'npm', 'test case', 'bdd', 'gherkin', 'cucumber'],
     technologies: {
         frontEndTest: {
