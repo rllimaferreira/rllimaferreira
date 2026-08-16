@@ -9,22 +9,22 @@ Nice to meet you! :)
 const RodrigoLima = {
     pronouns: 'he',
     nickName: 'Lima',
-    code: ['Javascript, Java, Python'],
+    code: ['JavaScript, Java, Python'],
     secondLanguage: 'English',
     thirdLanguage: 'Spanish',
-    askMeAbout: ['Software Testing', 'Tests', 'QA', 'Travels', 'Bodybuilding', 'Running', 'Study','Coffee','Qa.Coders'],
+    askMeAbout: ['Software Testing', 'Tests', 'QA', 'Travels', 'Health', 'Running', 'Study','Coffee','CIEE'],
     message: "
 Postgraduate in Software Engineering, specialized in Quality and Software Testing, and working as a QA Automation Engineer."
     others: ['Git', 'NPM', 'Test Case', 'BDD', 'Gherkin', 'Cucumber'],
     technologies: {
         frontEndTest: {
-            web: ['Cypress, Selenium, Robot Framework']
+            web: ['Playwright, Cypress, Selenium, Robot Framework']
         backEnd: {
-            api: ['Postman','Cypress', 'Robot Framework']
+            api: ['Playwright, Postman','Cypress', 'Robot Framework']
         },
         os: ['Windows', 'Linux'],
         ides: ['VSCode', 'IntelliJ'],
-        cicd: ['GitGub Actions'],
+        cicd: ['GitHub Actions, Jenkins'],
         managementTools: ['Jira, Azure DevOps'],
         agileMethodologies: ['Scrum', 'Kanban'],
         traditionalMethodologies: ['Waterfall']
